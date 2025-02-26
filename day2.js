@@ -1,6 +1,6 @@
 
 function main() {
-    console.log("¡Bienvenido a la aplicación de preguntas!");
+    alert("¡Bienvenido a la aplicación de preguntas!");
 
     // Pregunta 1: Nombre
     let nombre = prompt("¿Cuál es tu nombre?");
